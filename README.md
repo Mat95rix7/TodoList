@@ -6,6 +6,6 @@ Liste de taches avec react et Tailwind
   * installez tailwind avec la commande : npm install tailwindcss @tailwindcss/vite (si ne c'est pas deja fait)
   * Lancez l'application avec la commande : npm run dev.
   * ENJOY !!!!!
-
+```
 
 ![Capture d'écran](https://github.com/user-attachments/assets/896c22f3-19b6-4ed5-915b-adf84ae13dda)
