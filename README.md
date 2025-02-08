@@ -7,4 +7,5 @@ Liste de taches avec react et Tailwind
   * Lancez l'application avec la commande : npm run dev.
   * ENJOY !!!!!
 
-```![Capture d'écran](https://github.com/user-attachments/assets/78c4e361-dacc-4073-812d-8eba808bbb51)
+
+![Capture d'écran](https://github.com/user-attachments/assets/896c22f3-19b6-4ed5-915b-adf84ae13dda)
